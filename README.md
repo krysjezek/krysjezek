@@ -6,8 +6,7 @@ I'm a CGI designer based in Prague. Most of my work is 3D, motion, and art direc
 
 I studied Software Engineering at FEE CTU. A bunch of my technical projects started as school assignments, including the C++ renderer and video-processing backend below.
 
-The video backend ended up becoming my bachelor's thesis and got straight As, which was nice.
-
+The video backend ended up becoming my bachelor's thesis.
 ## Stuff I use
 
 - **Visual:** 3D environments, product visualization, motion, FOOH, and mixed reality
