@@ -4,7 +4,13 @@
 
 I'm based in Prague and work with brands and studios around the world. I move between art direction, visualization, motion, and code—building software and creative tools that often feed back into my visual work.
 
-I studied Software Engineering at Czech Technical University. A nerd with taste.
+A nerd with taste.
+
+## Software engineering at FEE CTU
+
+I studied Software Engineering at the Faculty of Electrical Engineering, Czech Technical University in Prague. Many of my technical projects began there, including my C++ ray tracer and video-processing backend.
+
+The video-processing system became my bachelor's thesis and received straight A's. That university journey—from rendering fundamentals and backend systems to WebGL and creative tooling—still shapes how I approach work between design and code.
 
 ## What I work with
 
@@ -22,11 +28,11 @@ A browser-based WebGL2 tool that converts heightmaps into tangent-space normal m
 
 ### [C++ Ray Tracing Renderer](https://gitlab.fel.cvut.cz/jezekkr2/pcc-ray-tracing)
 
-A ray tracing render engine written in C++ as an exploration of rendering fundamentals.
+A university project exploring rendering fundamentals through a ray tracing engine written in C++.
 
 ### [Video Processing Backend](https://github.com/krysjezek/video-process-backend)
 
-A Python, OpenCV, and MoviePy backend for automating video mockup processing.
+A Python, OpenCV, and MoviePy system for automating video mockup processing, developed as my bachelor's thesis at FEE CTU.
 
 ## Elsewhere
 
