@@ -1,4 +1,4 @@
-# Hey, I'm Kryštof
+# About me
 
 I'm a CGI designer based in Prague. Most of my work is 3D, motion, and art direction. I also like building apps and tools, usually somewhere around rendering, WebGL, or video automation.
 
