@@ -1,6 +1,6 @@
 # Hi, I'm Krystof
 
-I'm a CGI designer in Prague. Most of my work is 3D, motion and art direction, and I build the tools I wish I had, usually somewhere around rendering, WebGL or video.
+I'm a designer and software engineer in Prague. I build tools for designers, usually somewhere around 3D, rendering, WebGL or video, and I design and code them myself.
 
 ## Now building: Motion Mockups
 
